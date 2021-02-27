@@ -1,6 +1,6 @@
 ### Hi there 👋
 **Glad to see you here!**
-- 👯 I’m looking to collaborate on data enginerring or kubernates project</br>
+- 👯 I’m looking to collaborate on data engineering or kubernates project</br>
 - 🤔 I’m looking for help with remote docker containers</br>
 - 💬 Ask me about DevOps</br>
 - 📫 How to reach me: tejasc888@gmail.com
