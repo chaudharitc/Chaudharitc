@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align= "center"><b>Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></b></h1>
 **Glad to see you here!**
 - 👯 I’m looking to collaborate on data engineering or kubernates project</br>
 - 🤔 I’m looking for help with remote docker containers</br>
