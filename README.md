@@ -2,7 +2,7 @@
 
 <b>Glad to see you here!</b></br></br>
 
-- 👯 I’m looking to collaborate on data engineering or scalable microservices</br></br>
+- 👯 I’m looking to collaborate in data engineering or scalable microservices</br></br>
 - 🤔 I’m looking for help with .NET 5</br></br>
 
 <!--
