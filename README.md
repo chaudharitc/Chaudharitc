@@ -1,9 +1,9 @@
 <h1 align= "center"><b>Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></b></h1>
 
-<b>Glad to see you here!</b></br></br>
+<b>Glad to see you here!</b></br>
 
 - 👯 I’m looking to collaborate in data engineering or scalable microservices</br></br>
-- 🤔 I’m looking for help with .NET 5</br></br>
+- 🤔 I’m looking for help with .NET 5
 
 <!--
 **TejasCode/TejasCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
