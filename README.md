@@ -1,7 +1,7 @@
 <!--<h1 align= "center"><b>Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></b></h1> -->
 
-![1](https://github.com/tejasc0/tejasc0/blob/master/assets/text.gif)
-
+![1](https://github.com/tejasc0/tejasc0/blob/master/assets/text(2).gif)
+![1](https://github.com/tejasc0/tejasc0/blob/master/assets/text(3).gif)
 <b>Glad to see you here!</b></br>
 
 - 👯 I’m looking to collaborate in data engineering or scalable microservices</br></br>
