@@ -1,6 +1,6 @@
 <!--<h1 align= "center"><b>Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></b></h1> -->
 
-![1](https://github.com/tejasc0/assets/text.gif)
+![1](https://github.com/tejasc0/tejasc0/assets/text.gif)
 
 <b>Glad to see you here!</b></br>
 
