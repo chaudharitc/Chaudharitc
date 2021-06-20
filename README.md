@@ -1,5 +1,5 @@
-![1](https://github.com/tejasc0/tejasc0/blob/master/assets/text1.gif)</br>
-![1](https://github.com/tejasc0/tejasc0/blob/master/assets/text6.gif)
+<h1>Hello there!</h1></br>
+<h3>Glad to see you here!</h3></br></br>
 
 - 👯 I’m looking to collaborate in data engineering or scalable microservices</br></br>
 - 🤔 I’m looking for help with .NET 5
