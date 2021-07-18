@@ -2,8 +2,7 @@
 <h2>Hello there!</h2>
 <h3>Glad to see you here!</h3></br></br>
 
-- 👯 I’m looking to collaborate in data engineering or scalable microservices</br></br>
-- 🤔 I’m looking for help with .NET 5
+- 👯 I’m looking to collaborate in portainer, zsh, fastapi</br></br>
 
 <!--
 **TejasCode/TejasCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,8 @@
 [![My Streak](https://github-readme-streak-stats.herokuapp.com?user=tejasc0&theme=dark)](https://git.io/streak-stats)
 [![My stats](https://github-readme-stats.vercel.app/api?username=tejasc0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<a href="https://stackoverflow.com/users/9195136/tejas-chaudhari"><img src="https://stackoverflow.com/users/flair/9195136.png" width="208" height="58" alt="profile for Tejas Chaudhari at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tejas Chaudhari at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/9195136/tejas-chaudhari"><img src="https://stackoverflow.com/users/flair/9195136.png?theme=dark" width="208" height="58" alt="Stack Overflow widget" title="Stack Overflow widget"></a>
+
 <!--
 ## Create-React-App-Lambda
 
