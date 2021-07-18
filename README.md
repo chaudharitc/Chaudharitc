@@ -2,7 +2,7 @@
 <h2>Hello there!</h2>
 <h3>Glad to see you here!</h3></br></br>
 
-- 👯 I’m looking to contribute in portainer, fastapi</br></br>
+- I’m looking to contribute in portainer, fastapi</br></br>
 - email me for collaborations
 <!--
 **TejasCode/TejasCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
