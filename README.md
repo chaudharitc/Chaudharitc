@@ -1,6 +1,6 @@
 
 <h2>Hello there!</h2>
-<h3>Glad to see you here!</h3></br></br>
+<h3>Glad to see you here!</h3><br>
 
 - I’m looking to contribute in portainer, fastapi</br></br>
 - email me for collaborations
