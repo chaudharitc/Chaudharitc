@@ -16,7 +16,8 @@
 
 [![My Streak](https://github-readme-streak-stats.herokuapp.com?user=tejasc0&theme=dark)](https://git.io/streak-stats)
 [![My stats](https://github-readme-stats.vercel.app/api?username=tejasc0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+<a href="https://stackoverflow.com/users/9195136/tejas-chaudhari"><img src="https://stackoverflow.com/users/flair/9195136.png" width="208" height="58" alt="profile for Tejas Chaudhari at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tejas Chaudhari at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
 ## Create-React-App-Lambda
 
