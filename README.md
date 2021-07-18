@@ -2,8 +2,8 @@
 <h2>Hello there!</h2>
 <h3>Glad to see you here!</h3></br></br>
 
-- 👯 I’m looking to collaborate in portainer, zsh, fastapi</br></br>
-
+- 👯 I’m looking to contribute in portainer, fastapi</br></br>
+- email me for collaborations
 <!--
 **TejasCode/TejasCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +18,10 @@
 <br>
 <a href="https://stackoverflow.com/users/9195136/tejas-chaudhari"><img src="https://stackoverflow.com/users/flair/9195136.png?theme=dark" width="208" height="58" alt="Stack Overflow widget" title="Stack Overflow widget"></a>
 
+### My Recent Blogs posts
+
+- [Create disposable development environment in remote server using Docker](https://tejasc0.medium.com/create-disposable-devlopment-environment-in-remote-server-using-docker-26d52cb2f057)
+- [WSL2 GUI Setup in Windows 10](https://tejasc0.medium.com/wsl-gui-setup-c8233cc0f6c8)
 <!--
 ## Create-React-App-Lambda
 
